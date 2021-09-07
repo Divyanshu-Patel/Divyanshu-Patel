@@ -41,4 +41,4 @@
 ## ⚙️  GitHub Analytics
 
 ![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-Patel&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-Patel&theme=dark)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-Patel&theme=highcontrast)](https://git.io/streak-stats)
