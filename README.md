@@ -31,8 +31,11 @@
 <!-- <img src="npm.png" alt="NPM" height="70" style="vertical-align:top; margin:4px"> -->
 <!-- <img src="php.png" alt="PHP" height="70" style="vertical-align:top; margin:4px"> -->
 <img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
+<img src="photoshop.png" alt="PHOTOSHOP" height="70" style="vertical-align:top; margin:4px">
 <!-- <img src="unity.png" alt="UNITY" height="70" style="vertical-align:top; margin:4px"> -->
-<img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
+<img src="vs.png" alt="VISUAL STUDIO" height="70" style="vertical-align:top; margin:4px">
+<img src="premier.png" alt="PREMIER PRO" height="70" style="vertical-align:top; margin:4px">
+<img src="experience.png" alt="XD" height="70" style="vertical-align:top; margin:4px">
 <!--  -->
 </p>
 
@@ -41,3 +44,4 @@
 ## ⚙️  GitHub Analytics
 
 ![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-Patel&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-Patel&theme=dark)
+
