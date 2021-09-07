@@ -1,21 +1,21 @@
-# Hello! 👋 I'm Divyanshu Patel!
+# Hello! I'm Divyanshu !
 <br />
 
 [![Github](https://img.shields.io/github/followers/Divyanshu-Patel?label=Follow&style=social)](https://github.com/Divyanshu-Patel) &nbsp; ![views](https://komarev.com/ghpvc/?username=Divyanshu-Patel)
 
-## 🎓 I'm a BE - Computer Science student at Thapar Institute
+## BE - Computer Science student at Thapar Institute
 
-* 💡  I like to explore new technologies.
+<!-- * 💡  I like to explore new technologies.
 * 🌱  I'm on track for learning more about Network Security and Blockchain
-* 👯 I’m looking to collaborate on projects.
+* 👯 I’m looking to collaborate on projects. -->
 <!-- * 💬  Feel free to reach out to me for some interesting discussion. -->
 
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/divyanshu17/"><img src="linkedin (2).png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:divyansh94.patel@gmail.com"> <img src="gmail (2).png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/div_yanshuuu"> <img src="instagram.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/divyanshu17/"><img src="linkedin (2).png" alt="LinkedIn" height="80" style="vertical-align:top; margin:6px"></a>
+ <a href="mailto:divyansh94.patel@gmail.com"> <img src="gmail (2).png" alt="" height="70" style="vertical-align:top; margin:6px"></a>
+ <a href="https://instagram.com/div_yanshuuu"> <img src="instagram.png" alt="Python" height="70" style="vertical-align:top; margin:6px"></a>
 </p>
 
 <br />
