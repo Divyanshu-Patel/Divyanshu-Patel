@@ -13,9 +13,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/divyanshu17/"><img src="linkedin (2).png" alt="LinkedIn" height="80" style="vertical-align:top; margin:6px"></a>
- <a href="mailto:divyansh94.patel@gmail.com"> <img src="gmail (2).png" alt="" height="70" style="vertical-align:top; margin:6px"></a>
- <a href="https://instagram.com/div_yanshuuu"> <img src="instagram.png" alt="Python" height="70" style="vertical-align:top; margin:6px"></a>
+ <a href="https://www.linkedin.com/in/divyanshu17/"><img src="linkedin (2).png" alt="LinkedIn" height="70" width="70" style="vertical-align:top; margin:6px"></a>
+ <a href="mailto:divyansh94.patel@gmail.com"> <img src="gmail (2).png" alt="" height="70" width="70" style="vertical-align:top; margin:6px"></a>
+ <a href="https://instagram.com/div_yanshuuu"> <img src="instagram.png" alt="Python" height="70" width="70" style="vertical-align:top; margin:6px"></a>
 </p>
 
 <br />
